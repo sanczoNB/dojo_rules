@@ -6,3 +6,4 @@ My deadly skills:
 *Git
 *SQL
 *basic of Java
+*Killing history using git rebase
