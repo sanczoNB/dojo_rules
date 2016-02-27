@@ -7,3 +7,5 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * No coffee in the dojo
+I fucking hate caffee
+and I got it fuck.
